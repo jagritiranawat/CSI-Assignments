@@ -19,3 +19,7 @@ Addition: Adds two numbers.
 Subtraction: Subtracts the second number from the first number.
 Multiplication: Multiplies two numbers.
 Division: Divides the first number by the second number (note: division by zero is handled appropriately).
+
+Assignment 3: Data Visualization
+Take Any dataset of your choice and do the visualization
+The objective of this assignment is to explore and visualize any dataset here I choose wine quality dataset and perform visualization using Matplotlib and Pandas. The assignment focuses on creating various types of visualizations to gain insights into the dataset.
